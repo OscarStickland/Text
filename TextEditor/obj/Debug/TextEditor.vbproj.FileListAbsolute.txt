@@ -1,0 +1,23 @@
+D:\Visual Studio Projects\Visual Studio Exersises\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+D:\Visual Studio Projects\Visual Studio Exersises\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+D:\Visual Studio Projects\Visual Studio Exersises\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+D:\Visual Studio Projects\Visual Studio Exersises\TextEditor\TextEditor\bin\Debug\TextEditor.xml
+D:\Visual Studio Projects\Visual Studio Exersises\TextEditor\TextEditor\obj\Debug\TextEditor.Form1.resources
+D:\Visual Studio Projects\Visual Studio Exersises\TextEditor\TextEditor\obj\Debug\TextEditor.Resources.resources
+D:\Visual Studio Projects\Visual Studio Exersises\TextEditor\TextEditor\obj\Debug\TextEditor.vbproj.GenerateResource.Cache
+D:\Visual Studio Projects\Visual Studio Exersises\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+D:\Visual Studio Projects\Visual Studio Exersises\TextEditor\TextEditor\obj\Debug\TextEditor.xml
+D:\Visual Studio Projects\Visual Studio Exersises\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+D:\Visual Studio Projects\Visual Studio Exersises\TextEditor\TextEditor\obj\Debug\TextEditor.vbprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+D:\Visual Studio Projects\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+D:\Visual Studio Projects\TextEditor\TextEditor\obj\Debug\TextEditor.xml
+D:\Visual Studio Projects\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+D:\Visual Studio Projects\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+D:\Visual Studio Projects\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+D:\Visual Studio Projects\TextEditor\TextEditor\bin\Debug\TextEditor.xml
+D:\Visual Studio Projects\TextEditor\TextEditor\obj\Debug\TextEditor.Form1.resources
+D:\Visual Studio Projects\TextEditor\TextEditor\obj\Debug\TextEditor.Resources.resources
+D:\Visual Studio Projects\TextEditor\TextEditor\obj\Debug\TextEditor.vbproj.GenerateResource.Cache
+D:\Visual Studio Projects\TextEditor\TextEditor\obj\Debug\TextEditor.AboutBox.resources
+D:\Visual Studio Projects\TextEditor\TextEditor\obj\Debug\TextEditor.vbprojResolveAssemblyReference.cache
