@@ -21,3 +21,7 @@ D:\Visual Studio Projects\TextEditor\TextEditor\obj\Debug\TextEditor.Resources.r
 D:\Visual Studio Projects\TextEditor\TextEditor\obj\Debug\TextEditor.vbproj.GenerateResource.Cache
 D:\Visual Studio Projects\TextEditor\TextEditor\obj\Debug\TextEditor.AboutBox.resources
 D:\Visual Studio Projects\TextEditor\TextEditor\obj\Debug\TextEditor.vbprojResolveAssemblyReference.cache
+C:\Users\Oscar\Downloads\Text-master\TextEditor\bin\Debug\TextEditor.exe.config
+C:\Users\Oscar\Downloads\Text-master\TextEditor\obj\Debug\TextEditor.exe
+C:\Users\Oscar\Downloads\Text-master\TextEditor\obj\Debug\TextEditor.xml
+C:\Users\Oscar\Downloads\Text-master\TextEditor\obj\Debug\TextEditor.pdb
